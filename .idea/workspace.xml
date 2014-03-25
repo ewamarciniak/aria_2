@@ -4,6 +4,7 @@
     <list default="true" id="650dbbb1-7515-43ea-8f99-701fbfc48105" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="aria_2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +26,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.ru" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.ru" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.ru">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.43001688" vertical-offset="0" max-vertical-offset="593">
+            <state line="15" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="141" column="0" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.0" vertical-offset="1838" max-vertical-offset="5270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="0" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="918">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="31" selection-start="169" selection-end="169" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1411">
+            <state line="33" column="0" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.49029982" vertical-offset="283" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -46,7 +65,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="2" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+            <state line="36" column="0" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.0" vertical-offset="121" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -70,6 +89,7 @@
         <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/test/spec/converterSpec.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
       </list>
@@ -307,20 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="2" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="169" selection-end="169" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1411">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/converter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="4" selection-start="682" selection-end="682" vertical-scroll-proportion="0.7740303" vertical-offset="0" max-vertical-offset="593">
@@ -330,7 +336,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.43001688" vertical-offset="0" max-vertical-offset="593">
+        <state line="15" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="0" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.0" vertical-offset="1838" max-vertical-offset="5270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.0" vertical-offset="121" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.49029982" vertical-offset="283" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
