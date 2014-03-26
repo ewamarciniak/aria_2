@@ -22,7 +22,7 @@ $(document).ready(function() {
             alert("Please set one field to convert")
         }
         if (metricValue.length != 0) {
-            $("#imperialinput").val(Converter.convertFromPoundsToKIlo(metricValue));
+            $("#imperialinput").val(Converter.convertFromImperialToMetric(metricValue));
         }
         else if (imperialValue.length != 0) {
             $("#metricinput").val(Converter.convertFromMetricToImperial(imperialValue));
